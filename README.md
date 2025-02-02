@@ -1,0 +1,2 @@
+# API_Random_Pictures
+通过读取json返回随机图片的PHPAPI
